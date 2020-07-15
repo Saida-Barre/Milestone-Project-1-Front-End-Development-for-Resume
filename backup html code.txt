@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />        
+        <meta name="description" content="A CSS Mockup">
+        
+	<link rel="stylesheet" type="text/css" href="css/reset.css" />
+	<link rel="stylesheet" type="text/css" href="css/file name/styles.css">
+
+        <script src="js/scripts.js" type="text/javascript" defer></script>    
+    </head>
+    <body>
+        <div>
+            <h1>SAIDA BARRE</h1>
+                <p>"Strategic Thinker | Team Player | Problem Solver"</p>
+        </div>
+        <div>
+            <h2>PROFILE</h2>
+                <P>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Beatae nihil adipisci perferendis dolorum. Vel quaerat amet magnam. Deleniti qui voluptas, vero non at beatae saepe, exercitationem, esse nemo impedit necessitatibus.</P>
+        </div>
+        <div>
+            <h2>EDUCATION</h2>
+                <P>"University of Alberta | BA, Economics and Sociology"</P>
+                <p>"Completion: August 2011"</p>
+        </div>
+        <div>
+            <h2>SKILLS</h2>
+            <h3>Software skills</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <h3>Design Skills</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <h3>Analytical Skills</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <h3>Collaboration skills</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+            <h3>Soft Skills</h3>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+        <div> 
+            <h2>USER EXPERIENCE PROJECTS</h2>
+            <h3>Product Name: BU Greetings</h3>
+            <h4>Published: 2017</h4>
+            <p>UX Case Study: Designing a new way to send greeting cards while leveraging mobile technology</p>
+        </div>
+        <div>
+            <h3>Product Name: FUD | FRESH.UGLY.DELICIOUS</h3>
+            <h4>Published: 2017</h4>
+            <p>A UX sprint design challenge to solve the issue with food waste by designing a food subscription and delivery service app for local ugly produce that don't make it to grocery shelves</p>
+        </div>
+        <div>
+            <p>REFERENCES AVAILABLE UPON REQUEST</p>
+        </div>
+  
+    </body>

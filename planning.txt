@@ -1,0 +1,79 @@
+ASSIGNMENT 3 - FRONT-END DEVELOPMENT: RESUME 
+--------------------------------------------
+Requirements:
+
+General guidelines
+__________________
+
+MANDATORY REQUIREMENTS 
+Checklist
+______________________
+
+                     TWO PARTS: RESUME & CONTACT FORM
+-------------------
+1. RESUME COMPLETE:
+-------------------
+CONTENT INCLUDED:
+-objective content
+-work experience content 
+-education
+-resume has link to my Github account homepage
+-all content is spell checked
+-all content is grammar checked
+
+------------------------
+CONTACT FORM IS COMPLETE
+------------------------
+
+_____________________________________________________________
+Plan:
+
+process: 
+1.review mandatory requirement
+2.make a site map (mobile first, tablet, desktop)
+3.
+
+______
+TASKS
+______
+stort 1: Wireframe mobile first resume with basic layouts
+task 1:Using wireframes, design a resume containing the following:
+	-objective content
+	-work experience
+	-education
+	-skills: software, design, dev, Analysis,
+		 collaboration, interpersonal skills
+		(sidebar)
+task 2: Using wireframes, design a "Contact Me" form
+		* allows users to write an email to
+		  you using "mailto" 
+		  link as form action
+		*(research how to do this using mailto on your own)
+
+-------------------------------------------------
+
+Problem: 
+--------
+To create a responsive resume website that includes a Contact 
+Me form to allo users to write an email to you
+
+Brainstorming questions for possible solutions:
+-------------------------------------------------
+-HMW create a mobile first page that is responsive to
+tablets and desktop screens
+
+-HMW create a page with content that is easy to read through
+
+-HMW create a resume link to github
+
+- HMW hide content so that employers can view sections of 
+resume that they want to see
+
+- HMW 
+
+Ask Interview Questions (from Manpower Recruiter)
+--------------------------------------------------
+ 
+
+ 
+
