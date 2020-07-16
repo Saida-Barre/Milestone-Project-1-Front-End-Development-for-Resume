@@ -6,9 +6,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">        
         <meta name="description" content="A resume website for Saida Barre">
         <meta name="author" content="Saida Barre">
-	<link rel="stylesheet" type="text/css" href="css/reset.css" />
-	<link rel="stylesheet" type="text/css" href="css/style.css">
-    <script src="js/scripts.js" type="text/javascript" defer></script>    
+	<link rel="stylesheet" type="text/css" href="../css/reset.css">
+	<link rel="stylesheet" type="text/css" href="../css/style.css">
+    <script src="../js/scripts.js" type="text/javascript" defer></script>    
     
 </head>
     <body>
@@ -144,17 +144,18 @@
                 <p>A UX sprint design challenge to solve the issue with food waste by designing a food subscription and delivery service app for local ugly produce that don't make it to grocery shelves</p> 
             <p>REFERENCES AVAILABLE UPON REQUEST</p>  
         </main>
-        <!--create form-->
+        <!--wire form using -->
+        <footer> 
         <h2>Contact Me</h2>
 
-        <form action="mailto:someone@example.com" method="post" enctype="text/plain">
-            First Name:<br>
-            <input type="text" name="firstName"><br>
-            Last Name:<br>
-            <input type="text" name="lastName"><br>
-            E-mail: <br>
-            <input type="text" name="comment" size="50"><br><br>
-            <input type="submit" value="Send">
-            <input type="reset" value="Reset">
-        </form>
+            <form action="mailto:saida@ualberta.com" method="post" enctype="text/plain">
+                Your Email:<br>
+                <input type="text" name="yourEmail"><br>
+                Message Subject:<br>
+                <input type="text" name="messageSubject"><br>
+                Message: <br>
+                <input type="text" name="message" size="50"><br><br>
+                <input type="submit" value="Send">
+            </form>
+    </footer>
     </body>
