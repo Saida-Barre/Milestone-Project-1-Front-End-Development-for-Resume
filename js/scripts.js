@@ -11,5 +11,16 @@ function submit (event) {
     console.log(formData.get("message"));
 }
 
-//now that the input variables and button works in form, we need to populate this info into mailto email.
+let badWord = "/crap|ugly|brat|fool|fuck|fucking|f*cking|f*ck|bitch|b*tch|shit|sh*t|fool|dumb|couch potato|arse|arsehole|asshole|*ssh*l*|****|c*ck|****sucker|c*cks*ck*r|****|c*nt|dickhead|d*c*h*a*|****|f*c*|****wit|f*ckw*t|fuk|f*k|fuking|f*k*ng|mother****er|m*th*rf*ck*r|******|n*gg*r|pussy|p*ssy|****|sh*t|wanker|w*nk*r|wankers|w*nk*rs|whore|wh*r*|slag| sl*g|*****|b*tch|f u c k|f*c*|b.i.t.c.h|b*tch|d-i-c-k|d***/gi";
+let replacedWord = message.replace(badWord,"***");
+alert(replaceWord);
+
+if (message)
+{ 
+   if message.badWord returns true;
+    ("*****")
+}else{ false
+
+}
+
 
